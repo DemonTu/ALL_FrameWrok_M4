@@ -6,4 +6,3 @@ test dev2
 
 test fenzhi work 
 
-bug
