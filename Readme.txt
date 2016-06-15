@@ -4,4 +4,6 @@ test dev
 
 test dev2
 
-test fenzhi work
+test fenzhi work 
+
+bug
