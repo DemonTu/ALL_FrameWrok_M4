@@ -6,3 +6,4 @@ test dev2
 
 test fenzhi work 
 
+test no password push
